@@ -236,7 +236,7 @@ class App extends Component {
     return (
       <div className="container">
         <div className="text-center">
-          <h1>Quan Ly Cong Viec</h1>
+          <h1>To-Do List</h1>
           <hr />
         </div>
         <div className="row">
